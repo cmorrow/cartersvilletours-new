@@ -5,10 +5,10 @@
       "rewrite": "/index.html"
     }
   ],
-  "platform": {
-    "apiRuntime": "node:20"
-  },
   "navigationFallback": {
     "rewrite": "/api/server"
+  },
+  "platform": {
+    "apiRuntime": "node:18"
   }
 }
